@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 My name is Renée Desporte, and I'm a Research Engineer at SRI International. 
 
-I completed my undergraduate degree in Physics from Louisiana State University in 2020, where [I researched quantum networks](https://quantum.phys.lsu.edu/people.html) and assisted in writing [this paper](https://www.nature.com/articles/s41534-020-00327-5).
+I completed my undergraduate degree in Physics from Louisiana State University in 2020, where I researched quantum networks and assisted in writing [this paper](https://www.nature.com/articles/s41534-020-00327-5).
 
-At SRI, I've worked on projects for applications such as drone detection and robotic automation.
+I've been at SRI International since July 2021, and I've worked on projects for applications such as drone detection and robotic automation.
 
 I'm interested in continuing my software development journey, so I'm currently working on my own small projects as exercises. I'm open to collaborating on or contributing to open source projects. Reach me at desporterenee@gmail.com!
