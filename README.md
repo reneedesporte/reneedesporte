@@ -21,4 +21,6 @@ I completed my undergraduate degree in Physics from Louisiana State University i
 
 I've been at SRI International since July 2021, and I've worked on projects for applications such as drone detection and robotic automation.
 
-I'm interested in continuing my software development journey, so I'm currently working on my own small projects as exercises. I'm open to collaborating on or contributing to open source projects. Reach me at desporterenee@gmail.com!
+I'm interested in continuing my software development journey, so I'm currently working on my own small projects as exercises. I'm open to collaborating on or contributing to open source projects.
+
+Check out my blog [here](https://reneelearnsthings.blogspot.com/), and reach me directly at desporterenee@gmail.com!
