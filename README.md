@@ -1,26 +1,3 @@
-## Hi there 👋
+Hey! I'm Renee and I'm an engineer in the Bay Area. I completed my undergraduate degree in Physics from Louisiana State University in 2020, where I researched quantum networks and assisted in writing [this paper](https://www.nature.com/articles/s41534-020-00327-5). I've been at SRI International since July 2021, and I've worked on projects for applications such as drone detection, robotic automation, and space debris detection.
 
-<!--
-**reneedesporte/reneedesporte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm an engineer at SRI International in the Bay Area, California.
-
-I completed my undergraduate degree in Physics from Louisiana State University in 2020, where I researched quantum networks and assisted in writing [this paper](https://www.nature.com/articles/s41534-020-00327-5).
-
-I've been at SRI International since July 2021, and I've worked on projects for applications such as drone detection, robotic automation, and space debris detection.
-
-I'm interested in continuing my software development journey, so I'm currently working on my own small projects as exercises. I'm open to collaborating on or contributing to open source projects.
-
-Check out [my blog](https://reneelearnsthings.blogspot.com/), my [LinkedIn](https://www.linkedin.com/in/renee-desporte/), or my [Kaggle](https://www.kaggle.com/renedesporte) for data science
+I'm interested in continuing my software development journey, so I'm currently working on my own small projects as exercises. I'm open to collaborating on or contributing to open source projects. Check out [my blog](https://reneelearnsthings.blogspot.com/), my [LinkedIn](https://www.linkedin.com/in/renee-desporte/), or my [Kaggle](https://www.kaggle.com/renedesporte) for data science
