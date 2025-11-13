@@ -1,4 +1,4 @@
-Hey! I'm Renee and I'm an engineer in the Bay Area. I completed my undergraduate degree in Physics from Louisiana State University in 2020, where I researched quantum networks and assisted in writing [this paper](https://www.nature.com/articles/s41534-020-00327-5). I've been at SRI International since July 2021, and I've worked on projects for applications such as drone detection, robotic automation, space debris detection, and simulation tool modernization.
+Hey! I'm Renee and I'm an engineer in the Bay Area. I completed my undergraduate degree in Physics from Louisiana State University in 2020, where I researched quantum networks and assisted in writing [this paper](https://www.nature.com/articles/s41534-020-00327-5). I've been at SRI International since July 2021, and I've worked on projects for applications such as **drone detection**, **robotic automation**, **space debris detection**, and **simulation tool modernization**.
 
 Check out [my website](https://reneedesporte.com/) and my [LinkedIn](https://www.linkedin.com/in/renee-desporte/). I work on my own small projects / experiments outside of work, such as
 
