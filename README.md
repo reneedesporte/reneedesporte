@@ -1,1 +1,1 @@
-Hey! I'm Renee and I'm an engineer in the Bay Area. I have a physics background and now develop software. Check out [my website](https://reneedesporte.com/) and my [LinkedIn](https://www.linkedin.com/in/renee-desporte/).
+Hey! I'm Renee and I'm an engineer in the Bay Area. I have a degree in physics, developed software at [SRI](https://www.sri.com/) for 4.5 years, and am now testing flight hardware at [Astranis](https://www.astranis.com/)! Check out [my website](https://reneedesporte.com/) and my [LinkedIn](https://www.linkedin.com/in/renee-desporte/).
